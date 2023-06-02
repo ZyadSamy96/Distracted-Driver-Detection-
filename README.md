@@ -9,7 +9,7 @@ Applied dense layer model, made a CNN architecture then applied varrious data au
 
 ![image](https://github.com/ZyadSamy96/ZyadSamy96-Distracted-Driver-Detection-/assets/94635686/15784a45-eaf8-46bc-be97-054f8e760bec)
 
-- But when test all model on the Test set tje Tranfed Learning Model has the lowest error value 
+- But when tested all models on the test set the Tranfer Learning Model has the least error value 
 
 ![download](https://github.com/ZyadSamy96/ZyadSamy96-Distracted-Driver-Detection-/assets/94635686/b02926ff-8f10-4c23-998c-1383583d01d5)
 
